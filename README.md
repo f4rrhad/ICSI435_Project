@@ -62,7 +62,7 @@ ICSI435_Project/
 ├── dataset.png                 # Visualization of dataset structure
 ├── distribution_used.png       # Dataset distribution figure
 │
-└── README.md                   # (You are reading this)
+└── README.md                   
 ```
 
 ---

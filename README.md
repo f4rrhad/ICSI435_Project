@@ -1,8 +1,8 @@
 # **Adversarial Jailbreak Attacks on Multimodal Large Language Models (MLLMs)**
 
-*A Research Project for ICSI-435: Artificial Intelligence*
+* Research Project for ICSI-435: Artificial Intelligence*
 
-This repository contains my full implementation, experiments, and evaluation pipeline for **adversarial jailbreak attacks** on **multimodal large language models (MLLMs)**.
+This repository contains full implementation, experiments, and evaluation pipeline for **adversarial jailbreak attacks** on **multimodal large language models (MLLMs)**.
 The project studies how modern vision-language models respond to malicious (but carefully crafted) *jailbreak prompts* that attempt to bypass their safety alignment mechanisms.
 
 The experiments are based on the **JailBreakV-28K** dataset and analyzed using **LlamaGuard** for safety scoring.
